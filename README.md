@@ -14,6 +14,12 @@ The default constructor takes no arguments while initializing variables for the 
 This class also has two functions, both of which are getter methods: getWeight() and getName(). Both can be used to get the information of the specific baby the user is looking for.
 
 ## Medical Record class
-The class medical record is used to store data of the babies. 
+The class medical record is used to store data of the babies.  most popular name, number of births, number of babies with low birth weight, and the total number of babies from any given name.
+
+The Medical Record construction class intializes two arrays and allocates memory for up to 1 million elements each. It also initializes the number of times a name has appeared, as well as the number of low weight babies to 0. The total baby count starts at 0. An addEntry function with the baby class variable as the parameter uses the baby's names and weight to update the data structure with a new baby and total baby count.
+
+A deconstructor was created to deleted the allocated memory on exit of the program, to free the unused memory.
+
+The medical record class has a function that reads from a text file given the name as a parameter. It opens the file and assigns the variables name and weight to the baby class, and calls the addEntry function passing the two variables.
 
 # How to build and run
