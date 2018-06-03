@@ -36,5 +36,11 @@ The medical record class has a function that reads from a text file given the na
 The main function tests to see if the functions are working correctlly. 
 
 # How to build and run
-For Mac Users:
+
+## On Mac XCode
+* Create a new empty terminal project on XCode
+* Copy and paste all files into your created folder
+* Click the build and run button in your XCode program
+
+This program was created and run entirely on github with the help of Travis Cl for the tests.
 
