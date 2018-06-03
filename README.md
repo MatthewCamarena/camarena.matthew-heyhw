@@ -1,6 +1,12 @@
 # Baby Stats Project
 This project was designed to introduce the concept of data structures. 
+From a small and large text file full of baby names, and their respective weights included, we were assigned to store them in any data structure we knew. where we would be able to quickly compute the following: most popular name, number of births, number of babies with low birth weight, and the total number of babies from any given name.
 
+## Documentation Contributers
+Camarena Matthew camarena.matthew@csu.fullerton.edu
+Haowen-Yong 
+
+# Summary
 
 ## Baby class
 The Baby class has two constructors: the default constructor and a parameterized constructor.
@@ -9,3 +15,5 @@ This class also has two functions, both of which are getter methods: getWeight()
 
 ## Medical Record class
 The class medical record is used to store data of the babies. 
+
+# How to build and run
