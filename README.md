@@ -42,8 +42,9 @@ The main function tests to see if the functions are working correctlly.
 * Copy and paste all files into your created folder
 * Click the build and run button in your XCode program
 
-This program was created and run entirely on github with the help of Travis Cl for the tests.
-
 ## On Linux terminal with C++11 installed
 * Clone directory using git clone https://github.com/MatthewCamarena/camarena.matthew-heyhw.git
+* Enter the directory where you stored the files (cd [directory name]) until you reach the main.cpp and header files
 * build and run using g++ main.cpp -o main 
+
+This program was created and run entirely on github with the help of Travis Cl for the tests.
