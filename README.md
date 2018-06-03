@@ -32,5 +32,9 @@ The medical record class has a function that reads from a text file given the na
 
 * numberOfBabiesWithName takes in a string s and returns the number of babies who have that name.
 
+## Main function
+The main function tests to see if the functions are working correctlly. 
+
 # How to build and run
+For Mac Users:
 
