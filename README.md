@@ -4,7 +4,7 @@ From a small and large text file full of baby names, and their respective weight
 
 ## Documentation Contributers
 Camarena Matthew camarena.matthew@csu.fullerton.edu
-Haowen-Yong 
+Haowen-Yong heyhw@csu.fullerton.edu
 
 # Summary
 
