@@ -22,4 +22,12 @@ A deconstructor was created to deleted the allocated memory on exit of the progr
 
 The medical record class has a function that reads from a text file given the name as a parameter. It opens the file and assigns the variables name and weight to the baby class, and calls the addEntry function passing the two variables.
 
+* mostPopularName takes in no arguments and returns the most frequently appearing name in the text file.
+
+* numberofBirths takes in no arguments and returns the number of baby records loaded from the text file.
+
+* numberOfBabiesWithLowBirthWeight takes in no arguments and returns the number of babies who had birth weight < 2500 grams.
+
+* numberOfBabiesWithName takes in a string s and returns the number of babies who have that name.
+
 # How to build and run
